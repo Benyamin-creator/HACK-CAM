@@ -2,7 +2,7 @@
 <a href="https://bit.ly/2BNk3P1"><img title="CREATE BY BENYAMIN-CREATOR" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="CREATE BY BENYAMIN-CREATOR" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -54,12 +54,12 @@ Grabcam is a bash based script which is officially made for termux from this too
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/grabcam`
+* `git clone https://github.com/Benyamin-creator/HACK-CAM`
 * `cd $HOME`
 * `ls`
-* `cd grabcam`
+* `cd HACK-CAM`
 * `ls`
-* `bash grabcam.sh`
+* `bash hack-cam.sh`
 ```
 to see captured images >>>
 ```
