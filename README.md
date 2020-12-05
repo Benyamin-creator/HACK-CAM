@@ -2,12 +2,12 @@
 <a href="https://bit.ly/2BNk3P1"><img title="CREATE BY BENYAMIN-CREATOR" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="CREATE BY BENYAMIN-CREATOR" src="https://img.shields.io/badge/Tool-Grabcam-green.svg"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="CREATE BY BENYAMIN-CREATOR" src="https://img.shields.io/badge/Tool-HACK-CAM-green.svg"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/2BNk3P1"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Grabcam" src="https://user-images.githubusercontent.com/49580304/96668015-0c7eb600-130f-11eb-9193-e02e6b209b01.jpg"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="HACK-CAM"></a>
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
